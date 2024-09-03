@@ -1,6 +1,6 @@
-# South Bay Robotics Website
-This is the website and blog of the South Bay Robotics FRC team.
-It can be viewed at [https://www.southbayrobotics.org/](https://www.southbayrobotics.org/)
+# Zero Tolerance Website
+This is the website and blog of the Zero Tolerance FRC team.
+It can be viewed at [http://zerotolerancefrc.org/](http://zerotolerancefrc.org/)
 
 ## Adding Blog Posts
 Adding blog posts is pretty simple. Fork this repo, and add the article metadata to the json in [/blog/_.json](/blog/_.json). Here is an example:
