@@ -17,7 +17,7 @@ const config = {
       }
     ),
     paths: {
-      base: process.env.SVELTE_MODE === 'production' ? '/sbr-site' : '',
+      base: process.env.SVELTE_MODE === 'production' ? '/zt-site' : '',
     },
     //inlineStyleThreshold: 10000,
   }
